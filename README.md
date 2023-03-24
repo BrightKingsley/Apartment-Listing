@@ -25,4 +25,3 @@ An app where users can find apartments and houses for sale or rent.
 ![mobile (15)](https://user-images.githubusercontent.com/110265893/227506873-3cf27461-7120-4781-8402-9b96c094e76e.png)
 ![mobile (16)](https://user-images.githubusercontent.com/110265893/227506867-b4be292d-35bd-410f-a386-370381553257.png)
 ![mobile (25)](https://user-images.githubusercontent.com/110265893/227506817-3da044fe-df20-4056-9b3f-5ad8c874253d.png)
-![mobile (17)](https://user-images.githubusercontent.com/110265893/227506864-385ea884-a9c2-4011-af65-c7102764b765.png)
